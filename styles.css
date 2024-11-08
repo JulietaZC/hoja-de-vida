@@ -1,0 +1,178 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    }
+  body {
+   background-color: #F0F6F6; 
+    text-align: center;
+  }
+  main {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    }
+  
+  /* STYLE TEXT */
+  
+  header {
+    color: #B6467E;
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+     }
+  #indexheader {
+    background-color: #fff0f6;
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+    }
+  
+  h1 {
+    color: #B6467E;
+    font-family: "Arial", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    }
+  
+  .artprojects {
+    background-color:#B6467E;
+    color: white;
+    font-family: "Arial", cursive;
+    }
+  p {
+    color: #0e313f;
+    font-family: "Coiny", system-ui;
+    font-size: 25px;
+  }
+  #maintext {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    }
+  h2{
+    color: #B6467E;
+    font-family: "Arial", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 55px;
+    
+    }
+  .hobbiestitle {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-color:#B6467E;
+    color: white;
+    font-family: "Arial", cursive;
+    }
+  h3{
+    color: #B6467E;
+    font-family: "Arial", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 55px;
+    }
+  .webdevelopmenttitle {
+  background-color:#B6467E;
+  color: white;
+    
+  }
+  .catext {
+    margin-left: 1em;
+    margin-right: 1em;
+    }
+  .doortext {
+  margin-left: 1em;
+  margin-right: 1em;
+  }
+    .webtext{
+    
+      margin-left: 1em;
+      margin-right: 1em;
+      }
+  .bookstitle {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-color:#B6467E;
+    color: white;
+    }
+  .musictitle {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background-color:#B6467E;
+  color: white;
+  }
+  #musictext {
+    margin-bottom: 1em;
+    }
+  #musicvideotext {
+    color: #B6467E;
+    margin-bottom: 1em;
+    }
+  /* STYLE IMAGES */
+  .me {
+    border-radius: 50%;
+    max-width:20%;
+    max-height: 10%;
+    border: 3px solid #B6467E;
+  
+    }
+  .painting {
+  border-radius: 20%;
+  max-width: 15%;
+  max-height: 10%;
+  border: 3px solid #B6467E;
+   }
+  .books {
+  border-radius: 20%;
+  max-width: 15%;
+  max-height: 10%;
+  border: 3px solid #B6467E;
+  }
+  .run {
+  border-radius: 20%;
+  max-width: 15%;
+  max-height: 10%;
+  border: 3px solid #B6467E;
+  }
+  img {
+  border-radius: 20%;
+  max-width: 15%;
+  max-height: 10%;
+  border: 3px solid #B6467E;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  }
+  
+  #web{
+  border-radius: 1%;
+  max-width: 35%;
+  max-height: 30%;
+  border: 3px solid #B6467E;
+  }
+  
+  
+  /* STYLE NAV BAR */
+  ul {
+    list-style-type: none;
+    background-color: #B6467E;
+    overflow: hidden;
+    padding: 1em;
+    }
+  li {
+    display: inline;
+    }
+  li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5em;
+    padding:2em;
+    font-family: "Coiny", system-ui;
+    }
+  li a:hover {
+    background-color: #d39cad;
+    }
